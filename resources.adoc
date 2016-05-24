@@ -1,0 +1,24 @@
+= Resources to Accompany talk: "This stuff is cool, but HOW CAN I GET MY COMPANY TO DO IT? Businessing the S*** out of Transformative Development!"
+Mark A. Heckler <mark@thehecklers.org>
+v1.0, 20160524
+
+This document contains references to books, articles, and posts that may (or may not) serve as useful references, guides, supplements, etc. in the following pursuits:
+
+* Better understanding Cost/Benefit Analysis, Return On Investment (ROI), and other financial concepts/formulas like Payback, Internal Rate of Return (IRR), and Net Present Value (NPV)
+* Foster ideas with regard to how to apply financial analysis to transformative development technologies
+* Create better evaluations of technologies and their application(s) within your environment
+* Document and "make your case" better for technologies under consideration using a fact-based approach, applying sensible values to qualitative measures
+
+These concepts are discussed in a lively presentation by Mark Heckler, available for conferences upon request, schedule permitting:
+
+Mark Heckler
+mark@thehecklers.org
+mark.heckler@gmail.com
+@MkHeck (Twitter)
+
+Feedback welcome!
+
+== Books
+
+== Articles
+
