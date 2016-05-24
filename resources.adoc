@@ -4,12 +4,13 @@ v1.0, 20160524
 
 This document contains references to books, articles, and posts that may (or may not) serve as useful references, guides, supplements, etc. in the following pursuits:
 
-* Better understanding Cost/Benefit Analysis, Return On Investment (ROI), and other financial concepts/formulas like Payback, Internal Rate of Return (IRR), and Net Present Value (NPV)
+* Better understanding transformative development concepts like Cloud Native architectures, microservices, etc.
+* Obtaining a fuller understanding of Cost/Benefit Analysis, Return On Investment (ROI), and other financial concepts/formulas like Payback, Internal Rate of Return (IRR), and Net Present Value (NPV)
 * Foster ideas with regard to how to apply financial analysis to transformative development technologies
 * Create better evaluations of technologies and their application(s) within your environment
-* Document and "make your case" better for technologies under consideration using a fact-based approach, applying sensible values to qualitative measures
+* Document and "make your case" better for technologies under consideration using a fact-based approach, deriving sensible values from qualitative measures
 
-These concepts are discussed in a lively presentation by Mark Heckler, available for conferences upon request, schedule permitting.
+These concepts are explained in a lively presentation by Mark Heckler, available for conferences upon request (schedule permitting).
 
 == Contact Information
 
@@ -23,5 +24,19 @@ mark.heckler@gmail.com
 
 == Books
 
-== Articles
+* https://read.amazon.com/kp/embed?asin=B006CU9Y4K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_eJnrxbE24K3P1[The Vest-Pocket MBA]
+* https://read.amazon.com/kp/embed?asin=B00T3N7XB4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_rYnrxbRNPC486[Building Microservices]
+* https://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook[Migrating to Cloud Native Application Architectures]
+* https://www.redbooks.ibm.com/abstracts/sg248275.html?Open[Microservices from Theory to Practice]
 
+== Articles/Reference Sites
+
+* http://www.investopedia.com/[Investopedia]
+* http://www.investopedia.com/terms/p/paybackperiod.asp[Payback period]
+* http://www.investopedia.com/terms/i/irr.asp[Internal Rate of Return (IRR)]
+* http://www.investopedia.com/terms/n/npv.asp[Net Present Value (NPV)]
+* http://smallbusiness.chron.com/advantages-disadvantages-payback-capital-budgeting-method-14206.html[Advantages & Disadvantages of Payback Capital Budgeting Method]
+* http://www.accountingtools.com/payback-period-formula[Payback Method | Payback Period Formula]
+* https://www.thoughtworks.com/insights/blog/case-continuous-delivery[The Case for Continuous Delivery]
+* https://dzone.com/articles/how-to-measure-the-roi-of-your-cloud-spend[How to Measure the ROI of Your Cloud Spending]
+* https://www.ibm.com/developerworks/community/blogs/ClientSOA?lang=en[Client Insights on Services: APIs, Microservices and SOA]
