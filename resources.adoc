@@ -9,14 +9,17 @@ This document contains references to books, articles, and posts that may (or may
 * Create better evaluations of technologies and their application(s) within your environment
 * Document and "make your case" better for technologies under consideration using a fact-based approach, applying sensible values to qualitative measures
 
-These concepts are discussed in a lively presentation by Mark Heckler, available for conferences upon request, schedule permitting:
+These concepts are discussed in a lively presentation by Mark Heckler, available for conferences upon request, schedule permitting.
+
+== Contact Information
 
 Mark Heckler
-mark@thehecklers.org
-mark.heckler@gmail.com
-@MkHeck (Twitter)
 
-Feedback welcome!
+mark@thehecklers.org
+
+mark.heckler@gmail.com
+
+@MkHeck (Twitter)
 
 == Books
 
