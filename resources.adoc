@@ -24,8 +24,9 @@ mark.heckler@gmail.com
 
 == Books
 
-* https://read.amazon.com/kp/embed?asin=B006CU9Y4K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_eJnrxbE24K3P1[The Vest-Pocket MBA]
-* https://read.amazon.com/kp/embed?asin=B00T3N7XB4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_rYnrxbRNPC486[Building Microservices]
+* http://a.co/0C6Irjt[An Entire MBA in 1 Book: From the Author of the Online Course "An Entire MBA in 1 Course"]
+* http://a.co/4tH58no[The Vest-Pocket MBA: Fourth Edition]
+* http://a.co/98XgUof[Building Microservices: Designing Fine-Grained Systems]
 * https://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook[Migrating to Cloud Native Application Architectures]
 * https://www.redbooks.ibm.com/abstracts/sg248275.html?Open[Microservices from Theory to Practice]
 
